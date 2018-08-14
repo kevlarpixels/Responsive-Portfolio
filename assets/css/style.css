@@ -339,7 +339,7 @@
         text-align: center;
         list-style: none;
         float: left;
-        font-size: 30px;
+        font-size: 26px;
         font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
         color: #777;
         background-color: #ddd;
@@ -366,7 +366,7 @@
         font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
         color: #fff;
         background-color: #4aaaa5;
-        font-size: 60px;
+        font-size: 45px;
         text-align: center;
         font-weight: bold;
     }
